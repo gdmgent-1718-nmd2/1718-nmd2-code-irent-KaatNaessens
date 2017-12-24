@@ -1,3 +1,313 @@
 @import
   "bootstrap-variables",                  // See _bootstrap-variables.scss
   "../_vendor/bootstrap/scss/bootstrap";  // See _vendor/bootstrap/scss/bootstrap.scss
+  body{
+    background-color:#FFFFFF;
+    
+}
+
+.container{
+   
+    background-color: #e9edf0;
+ }
+
+p{
+  margin-top: 20px;
+  font-family:PT sans;
+  font-size: 20px;
+}
+h1{
+  margin-top: 40px; 
+  margin-bottom: 60px;
+  font-family:DK Display Patrol;
+  color: #004378;
+
+}
+
+h3{
+  font-family:DK Display Patrol;
+  color: #004378;
+}
+
+h2{
+  font-family:DK Display Patrol;
+  color:white;
+  font-size:30px;
+}
+
+
+#steun{
+  font-family:Keys of Paradise;
+  font-size: 50pt;
+  color: #004378;
+   
+}
+.container1{
+  background-color: #004378;
+}
+.display{
+  color:white;
+  font-family: DK Display Patrol;
+  font-size: 40pt;
+  margin-left: 20px;
+  margin-top: 0px;
+}
+ 
+  
+
+.jumbotron1{
+  margin-bottom: 20px;
+  background-color: #004378;
+  color:white;
+  height: 300px;
+  width: 1400px;
+  margin: auto;
+}
+nav{
+  background-color: white;
+ 
+}
+
+#carousel-thumb{
+  width: 1400px;
+  margin: auto;
+}
+
+.lead{
+  margin-left: 20px;
+
+}
+
+.btn {
+  height: 40px;
+  border-radius: 30px;
+  background-color: #4564a1;
+  border: 0px;
+}
+
+.btn:hover{
+  background-color: #31456b;
+  
+}
+
+
+
+.btn2 {
+  height: 40px;
+  border-radius: 30px;
+  background-color: #60b4f0;
+  border: 0px;
+}
+.btn2:hover {
+background-color: #3c739b;
+ 
+}
+
+.btn3 {
+  height: 45px;
+  border-radius: 30px;
+  background-color: #755045;
+  border: 0px;
+}
+
+.btn3:hover{
+
+  background-color: #412c26;
+ 
+}
+
+h5{
+  
+  margin-bottom: 20px;
+  font-family:DK Display Patrol;
+  color: #043780;
+  font-size: 25px;
+
+}
+
+.figure-caption{
+  background-color: #b30000;
+  color:white;
+  font-family: PT sans;
+  font-size: 20px;
+  text-align: center;
+  width: 130px;
+  height: 45px;
+  border-style:double;
+  position: relative;
+  border-width:6px;
+  border-color:white;
+  margin-top: -60px;
+}
+.img-fluid{
+  margin-bottom:40px;
+}
+
+.display-4{
+  font-family: DK Display Patrol;
+  color:white;
+  background-color:#043780;
+  margin-top: -40px; 
+}
+
+.display-3{
+  font-family: DK Display Patrol;
+  color:white;
+  background-color:#043780;
+  margin-top: -40px; 
+  height: 150px;
+  padding: 30px;
+}
+
+.boeknu{
+  text-decoration: none;
+  font-family: PT sans;
+}
+
+.boeknu :hover{
+  color: #a1d9f7;
+}
+
+.form-control{
+background-color:white;
+}
+.reserveren{
+  background-color: #a1d9f7;
+  margin-left: 120px;
+  width: 597px;
+  border-radius: 10px;
+}
+
+.form-check-label{
+  font-family: DK Display Patrol;
+  color:#043780;
+  font-size: 25px;
+  padding:20px;
+}
+
+.col-sm-2{
+  font-family: PT sans;
+  font-size: 20px;
+}
+
+.form-group{
+  font-family: PT sans;
+  font-size: 15px;
+}
+
+.attention{
+  color:red;
+  text-align: center;
+}
+
+.routess{
+  font-family: DK Display Patrol;
+  font-size: 30px;
+  margin-top: 0px;
+  margin-right: -20px;
+  color:white;
+
+  width: 597px;
+  border-radius: 10px;
+}
+
+
+.kader{
+  background-color: #a1d9f7;
+}
+
+.goedoel1{
+  margin-left: 20px;
+  font-size:35px;
+}
+.goedoel{
+  margin-left: 20px;
+}
+
+#blauw{
+  background-color:#a1d9f7;
+}
+
+
+#kader1{
+  background-color: white;
+  height:254px;
+  padding:20px;
+  width:100%;
+
+}
+#inktvis{
+  position: absolute;
+width:70px;
+margin-left: 105px;
+margin-top: 890px;
+z-index: 5;
+}
+#kreeft{
+  position: absolute;
+  width:70px;
+  margin-top:960px;
+  margin-left: 410px;
+}
+#schildpad{
+  position: absolute;
+  width:80px;
+  margin-top:590px;
+  margin-left:150px;
+  z-index: 5;
+}
+#nemo{
+  position: absolute;
+  width:60px;
+  margin-top:670px;
+  margin-left:350px;
+}
+
+#nr1{
+  position: absolute;
+  width:90px;
+  margin-top:210px;
+  margin-left:1040px;
+  z-index: 5;
+}
+
+#laura{
+  width:290px;
+  position: absolute;
+  margin-left:1135px;
+  z-index: 5;
+  margin-top:480px;
+  }
+
+#plaats{
+  font-size: 70px;
+}
+
+#plaats2{
+  font-size: 30px;
+}
+.navbar{
+  background-color: #ffba00;
+}
+
+#doneren{
+  margin-top: 40px; 
+  margin-bottom: 60px;
+  font-family:DK Display Patrol;
+  color: #004378;
+  font-size: 40px;
+
+}
+
+
+.link{
+position: absolute;
+font-size: 50px;
+ margin-top: 360px;
+ margin-left: 30px;
+ z-index: 5;
+}
+
+.navi{
+  color:#004378;
+}

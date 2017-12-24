@@ -1,0 +1,24 @@
+- title: Home
+  url: /index.html
+- title: Routes en Prijzen
+  url: /RoutesenPrijzen.html
+  sublinks:
+    - title: alle routes
+      url: /RoutesenPrijzen/alleroutes.html
+    - title: adventure
+      url: /RoutesenPrijzen/adventure.html
+    - title: classic
+      url: /RoutesenPrijzen/classic.html
+    - title: junior
+      url: /RoutesenPrijzen/junior.html
+    - title: extreme
+      url: /RoutesenPrijzen/extreme.html
+- title: Goed doel
+  url: /goeddoel.html
+  sublinks:
+  - title: Doneren
+    url: /Goed doel/doneren.html
+- title: Contact
+  url: /contact.html
+- title: actie
+  url: /actie.html
